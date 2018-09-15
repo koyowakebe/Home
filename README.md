@@ -1,2 +1,5 @@
 # Home
-`put
+
+Wordpress file
+
+<p>functions.php</p>
